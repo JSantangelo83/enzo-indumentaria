@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <Container fluid>
       <Row>
-        <Col>Hola</Col>
+        <Col>Hola1 </Col>
       </Row>
     </Container>
-  );
+  )
 }
 

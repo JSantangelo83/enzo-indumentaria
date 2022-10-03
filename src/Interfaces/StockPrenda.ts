@@ -1,7 +1,12 @@
 import { EntidadBase } from "./EntidadBase";
 import { Prenda } from "./Prenda";
 
-export interface VentaContenido extends EntidadBase {
-    prenda: Prenda,
+export interface StockPrenda extends EntidadBase {
     cantidad: number,
+    prenda: Prenda,
 }
+
+
+
+
+

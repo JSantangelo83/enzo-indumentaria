@@ -19,6 +19,6 @@ root.render(
       minBreakpoint='sm'
     >
       <Home />
-    </ThemeProvider>;
+    </ThemeProvider>
   </React.StrictMode>
 );
